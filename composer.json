@@ -1,0 +1,16 @@
+{
+    "name": "kolotov/hexlet-exs",
+    "description": "My Hexlet training",
+    "type": "project",
+    "require": {
+        "tightenco/collect": "^7.12",
+        "funct/funct": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Georgii Kolotov",
+            "email": "skabworking+git@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
